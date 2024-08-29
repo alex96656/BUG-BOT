@@ -1,15 +1,15 @@
-<h1 align="center"> PREXZY BUG BOT </h1>
+<h1 align="center"> BUG BOT </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREXZY-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+05.08.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+05.08.24" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
     <img alt="wasi" height="300" src="https://telegra.ph/file/a65b31d0822efe8163655.jpg">
-    <h1 align="center">PREXZY-BUG-BOT</h1>
+    <h1 align="center">BUG-BOT</h1>
   </a>
 </p>
 <p align="center">
